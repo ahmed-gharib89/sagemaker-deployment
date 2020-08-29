@@ -106,3 +106,5 @@ ENV/
 # Notebook files
 Sentiment Analysis/aclImdb_v1.tar.gz
 Sentiment Analysis/aclImdb/
+cache/
+data/
